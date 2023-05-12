@@ -1,7 +1,7 @@
 ### 👋Hi, My name is KUNAL SHAKYA 
 - 👀 I’m interested in Front-end Developement
 - 💞️ I’m looking to collaborate on anything related to HTML, CSS and JS
-- 🌱 I’m currently learning Bootstrap.
+- 🌱 I’m currently learning about APIs and Bootstrap.
 - 📫 How to reach me: Mail me - kunalshakya213@gmail.com
 
 
